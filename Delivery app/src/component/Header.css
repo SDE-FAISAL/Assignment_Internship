@@ -1,0 +1,54 @@
+body{
+    margin:auto;
+    background-color:white;
+}
+a{
+    text-decoration: none;
+}
+/*Header Css*/
+header{
+    height:60px;
+    /* border:2px  solid red; */
+    background-color:red;
+    color:white
+    
+}
+
+button{
+    height:20px;
+    width:20px;
+    background-color:black;
+    color:white;
+}
+
+#login{
+    background-color:white;
+}
+
+#register{
+    background-color:white;
+}
+
+#icon{
+    float:left;
+    display:flex;
+    height: 30px;
+    width: 60px;
+    margin: 20px;
+}
+
+#icon > h1{
+    margin: 2px;
+    font-size: 28px;
+    font-display: solid white;
+    
+}
+#icon > button{
+    margin: 10px
+    
+}
+#social{
+    float:right;
+    margin-top: 12px;
+    margin-right: 3%;
+}
